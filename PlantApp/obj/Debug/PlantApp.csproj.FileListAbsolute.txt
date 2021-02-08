@@ -1,0 +1,17 @@
+C:\Users\dalli\source\repos\PlantApp\PlantApp\bin\Debug\PlantApp.exe.config
+C:\Users\dalli\source\repos\PlantApp\PlantApp\bin\Debug\PlantApp.exe
+C:\Users\dalli\source\repos\PlantApp\PlantApp\bin\Debug\PlantApp.pdb
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\PlantApp.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\DetailsWindow.g.cs
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\MainWindow.g.cs
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\App.g.cs
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\PlantApp_MarkupCompile.cache
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\PlantApp_MarkupCompile.lref
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\DetailsWindow.baml
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\MainWindow.baml
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\PlantApp.g.resources
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\PlantApp.Properties.Resources.resources
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\PlantApp.csproj.GenerateResource.cache
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\PlantApp.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\PlantApp.exe
+C:\Users\dalli\source\repos\PlantApp\PlantApp\obj\Debug\PlantApp.pdb

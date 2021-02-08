@@ -20,9 +20,43 @@ namespace PlantApp
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        /* 
+         Grab user's input
+        add the users input to a plant object
+        add the plant object to a dictionary and the listbox
+        pass the plant object into the details window.
+         */
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void BtnAddPlant_Click(object sender, RoutedEventArgs e)
+        {
+            string name = TxtBoxPlantName.Text;
+            string environment = CmbBoxEnvironment.SelectedItem.ToString();
+
+        }
+
+        private void BtnShowDetails_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void RdBtnFlower_Checked(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void RdBtnTree_Checked(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void RdBtnShrub_Checked(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
