@@ -19,19 +19,35 @@ namespace PlantApp
     /// </summary>
     public partial class DetailsWindow : Window
     {
-        public DetailsWindow()
+        Plant plant;
+        public DetailsWindow(Plant paramPlant)
         {
             InitializeComponent();
-        }
 
+            plant = paramPlant;
+
+            LblName.Content = plant.Name;
+            LblEnvironment.Content = plant.Environment;
+            LblPick.Content = plant.Pick();
+            LblType.Content = plant.GetType().Name;
+        }
+        /// <summary>
+        /// closes the modal
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void BtnClose_Click(object sender, RoutedEventArgs e)
         {
-
+            Close();
         }
-
+        /// <summary>
+        /// Shows the sniff message of the specific plant.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void BtnSniff_Click(object sender, RoutedEventArgs e)
         {
-
+            MessageBox.Show(plant.Sniff());
         }
     }
 }

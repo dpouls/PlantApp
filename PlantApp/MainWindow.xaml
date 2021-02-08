@@ -80,7 +80,8 @@
                      FontSize="20"
                      VerticalAlignment="Bottom"
                      Checked="RdBtnShrub_Checked"/>
-        <Image Grid.Row="3"
+        <Image x:Name="ImgPlant"
+                Grid.Row="3"
                Grid.Column="2"
                Source="tree.png"/>
         <GroupBox Grid.Row="1" 
